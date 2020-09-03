@@ -108,3 +108,6 @@ node_modules
 
 /public
 /.cache
+
+dist
+.idea/codeStyles
